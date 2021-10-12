@@ -1,8 +1,8 @@
 <?php
 
 $dbhost = "localhost";
-$dbuser = "root";
-$dbpass = 'mysql';
+$dbuser = "";
+$dbpass = '';
 $dbname = "login_sample_db";
 
 $con = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);
