@@ -1,2 +1,2 @@
 # store_system
-login+store system with minimum security
+login+store system with minimum to no security
